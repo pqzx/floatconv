@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+}
+
+td {
+    border: 1px solid;
+    text-align: right;
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.container {
+    white-space: nowrap;
+}
+
+.heightlim {
+    max-height: 350px;
+    overflow: auto;
+}
+
+.intMain {
+    background-color: yellow;
+}
+
+.fracMain {
+    background-color: lime;
+}
+
+.sign {
+    background-color: violet;
+}
+
+.f2h .exponent {
+    border: 1px solid firebrick;
+}
+
+.bExp {
+    background-color: deepskyblue;
+}
+
+.mantissa {
+    background-color:palegreen;
+}
+
+.exp {
+    background-color: palevioletred;
+}
+
+.fractionalSum {
+    background-color: palegoldenrod;
+}
+
+.fracColor {
+    background-color: lightpink;
+}
+
+.highlight {
+    background-color: rgba(238, 232, 170, 0.651);
+}
+
+.strongBorder {
+    border: 2px solid;
+}
+
+.message {
+    color: blue;
+}
+
+.notes {
+    max-width: 1000px;
+}
